@@ -1,7 +1,7 @@
 # Multiretail
 
 ## Description
-**Multiretail** is an OpenCart solution for local multi-store retail networks (e.g., food delivery, city-based shops) that enables precise management of products, orders, and users by store location.
+**Multiretail** is an OpenCart solution for local multi-store retail networks (e.g., food delivery, city-based shops) and franchise setups where multiple independent small businesses operate using a single OpenCart installation. It enables precise management of products, orders, and users by store location.
 
 Compatible with OpenCart 3.x (PHP ≥ 7.x).
 
@@ -9,6 +9,7 @@ Note: The source code is encrypted. For purchase and licensing information, see 
 
 ## Features
 * Designed for multi-store retail networks operating within cities or districts, such as food delivery.
+* Suitable for franchises where independent businesses share one OpenCart instance.
 * Restrict admin users’ access to orders and data to only their assigned stores.
 * Filter reports and orders based on store-user bindings.
 * Prevent unauthorized order access according to store-user permissions.
